@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<INDEX html>
 <html>
 <head>
 <title>Rittik Panja | SAP FICO Consultant</title>
